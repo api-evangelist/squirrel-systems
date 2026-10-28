@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Squirrel Systems is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://squirrelsystems.com/
+Squirrel Systems provides a cloud‑based point‑of‑sale platform for restaurants, multi‑unit restaurant chains, and hospitality venues such as hotels, resorts, and casinos. The solution includes POS, payments, digital ordering, kitchen automation, reporting, analytics, and integrations with inventory, labor, payroll, reservations, gaming, and property‑management systems.
+
+**Areas:** Point‑of‑Sale · Restaurant · Hospitality · Digital Ordering · Kitchen Automation · Analytics · Integrations
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://squirrelsystems.com/)
+- [Documentation](https://help.squirrelsystems.com/)
+- [Support](https://help.squirrelsystems.com/s/)
+- [Blog](https://www.squirrelsystems.com/blog/)
+- [Terms of service](https://www.squirrelsystems.com/terms-of-use/)
+- [Privacy policy](https://www.squirrelsystems.com/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/squirrel-systems/](https://apis.io/providers/squirrel-systems/).
